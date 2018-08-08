@@ -1,2 +1,5 @@
 # hello-world
-Just my first repository. 
+
+Hello, Mortals!
+
+I like C# and coffe. 
